@@ -1,6 +1,6 @@
 # Project configuration
 
-[toc]
+[TOC]
 
 ## 1. Dependency tools
 
